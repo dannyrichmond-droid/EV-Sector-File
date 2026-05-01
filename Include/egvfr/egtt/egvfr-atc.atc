@@ -10,6 +10,7 @@ EG22_AG_TWR;118.130;;;;;;ATIS\noatis.atis;
 EG32_AG_TWR;123.180;;;;;;ATIS\noatis.atis;
 EGBD_AG_TWR;118.350;;;;;;ATIS\noatis.atis;
 EGBF_AG_TWR;119.030;;;;;;ATIS\noatis.atis;
+EGBG_AG_TWR;122.130;;;;;;ATIS\noatis.atis;
 EGBK_AG_TWR;122.705;EGNX_APP;;;;;ATIS\noatis.atis;
 EGBM_AG_TWR;124.080;;;;;;ATIS\noatis.atis;
 EGBN_AG_TWR;134.880;;;;;;ATIS\noatis.atis;
@@ -23,7 +24,6 @@ EGHA_AG_TWR;122.710;;;;;;ATIS\noatis.atis;
 
 //AFIS airfields
 EGBE_I_TWR;123.830;;;;;;ATIS\noatis.atis;
-EGBG_I_TWR;122.130;;;;;;ATIS\noatis.atis;
 EGBO_I_TWR;123.005;;;;;;ATIS\noatis.atis;
 EGBP_I_TWR;118.430;;;;;;ATIS\noatis.atis;
 EGBS_I_TWR;118.155;;;;;;ATIS\noatis.atis;
