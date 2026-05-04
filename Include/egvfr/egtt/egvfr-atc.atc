@@ -21,6 +21,7 @@ EGCV_AG_TWR;122.455;;;;;;ATIS\noatis.atis;
 EGCW_AG_TWR;128.005;;;;;;ATIS\noatis.atis;
 EGFE_AG_TWR;123.605;ATIS\voicesingle.atis;;;;;ATIS\singlerwy.atis;
 EGHA_AG_TWR;122.710;;;;;;ATIS\noatis.atis;
+EGKH_AG_TWR;122.210;;;;;;ATIS\noatis.atis;
 
 //AFIS airfields
 EGBE_I_TWR;123.830;;;;;;ATIS\noatis.atis;
